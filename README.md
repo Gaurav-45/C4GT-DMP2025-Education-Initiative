@@ -6,6 +6,12 @@ This project is part of **Code4GovTech Dedicated Mentoring Program (DMP) 2025**,
 
 > **Note**: The original repository is hosted on a private Bitbucket repository. This documentation serves as evidence of my contributions through merged PR screenshots and working application demonstrations/screenshots.
 
+## 🔗 Live Storybook
+
+**[View Live Storybook Documentation](https://story-book-v1.s3.us-east-1.amazonaws.com/ei-storybook/index.html)**
+
+Explore the complete interactive component library with live examples and playground functionality.
+
 ## 📋 About the Project
 
 The **Education Initiative Angular Component Library** is a comprehensive collection of reusable UI components designed specifically for educational platforms and learning management systems. The library includes:
