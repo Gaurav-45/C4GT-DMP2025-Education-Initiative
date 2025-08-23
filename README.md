@@ -55,7 +55,10 @@ The following table shows all components for which I created Storybook stories:
 | | Resource List | ✅ AllNavigationStates, WithMultipleResources, Playground | Resource collections |
 | | Download List | ✅ CustomStyling, Minimal, Playground | File downloads |
 | | Question Performance | ✅ BasicBarChart, EducationalSubjects, LargeDatasetWithSliding, MinimalData, MultipleLineGraphs, WithLineGraphOverlay, Playground | Performance analytics |
-| | Blank Question | ✅ BasicQuestion, MultipleBlanksMath, WithQuestionProgress, Playground | Assessment types |
+| **Question Types** | | | |
+| | EI Blank Question | ✅ BasicQuestion, MultipleBlanksMath, WithQuestionProgress, Playground | Fill-in-the-blank assessments |
+| | EI Dropdown Question | ✅ SingleDropdown, MultipleDropdowns, WithValidation, Playground | Dropdown-based question types |
+
 
 ### 3. Quality Standards Implementation
 
